@@ -10,7 +10,7 @@ how can i install go to the releases tab click on the tag and you'll see the rel
 
 NOTE this mod can CRASH your game unpredictably SO BE AWARE
 
-ANOTHER NOTE SINCE THIS IS A REPO OF https://github.com/Spiderman31807/Zombie-Infection IT HAS THE SAME NAME AND SAME INFO AND SAME dicky hoo so the `.jar` is name is `modid-1.0.jar` unfortunately it will be fixed once the better version comes out in the future
+ANOTHER NOTE SINCE THIS IS A REPO OF https://github.com/Spiderman31807/Zombie-Infection IT HAS THE SAME NAME AND SAME INFO AND SAME dicky hoo so the `.jar` name is `modid-1.0.jar` unfortunately...but it will be fixed once the better version comes out in the future
 
 FEEL FREE I MEAN FEEL FREE TO take this mod and publish it on modrinth.com or curseforge.com just as long as you credit me and Spiderman31807 because he did all of the work i just added the spices
 
