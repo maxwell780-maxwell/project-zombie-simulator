@@ -29,6 +29,9 @@ yknow opening the doors as a normal player right? well as a zombie you cant open
 <img width="1920" height="1080" alt="2026-08-06_17 20 36" src="https://github.com/user-attachments/assets/55792e85-4cd2-4ee2-9b0c-5a4d5f2af8a2" />
 <img width="1920" height="1080" alt="2026-08-06_17 27 02" src="https://github.com/user-attachments/assets/f90631d9-044b-4d71-9845-3d7d867e23c4" />
 
-
-
+other unrelated images
+<img width="1920" height="1080" alt="2026-08-06_18 45 41" src="https://github.com/user-attachments/assets/e6b1ae91-fce7-4316-8299-12454989b225" />
+<img width="1920" height="1080" alt="2026-08-06_17 45 52" src="https://github.com/user-attachments/assets/fcd16ce4-8180-477c-83e2-fef6ef71494e" />
+<img width="1920" height="1080" alt="2026-08-06_19 00 34" src="https://github.com/user-attachments/assets/69829597-d4d0-4610-ba85-e2d19b00a571" />
+<img width="1920" height="1080" alt="2026-08-06_19 00 22" src="https://github.com/user-attachments/assets/a811053f-0109-4a43-bfdb-67c5492d49bf" />
 
