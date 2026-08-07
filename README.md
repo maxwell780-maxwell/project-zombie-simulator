@@ -2,7 +2,7 @@
 "time to put all morph mods and possession mods for forge 1.20.1 to shame."
 (note this wasnt suppose to make fun of how bad the morph/possession mods there really good trust me i just bored and sick and tired of them not adding the features i want out of pure spite i made this mod)
 
-credits claude (for the prototype) grok (tiny small fixes) me (helping fixing giving ideas and fixing some myself) Spiderman31807 (follow him up https://github.com/Spiderman31807 for making the base mod and me refinding it to the project zombie simulator i have today this https://github.com/Spiderman31807/Zombie-Infection was used as a base and built on top of it NOT REQUIRED for project zombie simulator it will conflict) its literally the same thing as Zombie-Infection same behavior and same thing just with more features and more
+credits claude (for the prototype) grok (tiny small fixes) me (helping giving ideas and fixing some by myself) Spiderman31807 (follow him up https://github.com/Spiderman31807 for making the base mod and me refinding it to the project zombie simulator i have today this https://github.com/Spiderman31807/Zombie-Infection was used as a base and built on top of it NOT REQUIRED for project zombie simulator it will conflict) its literally the same thing as Zombie-Infection same behavior and same thing just with more features and more
 
 commands /infect set @s [zombie name] 
 
