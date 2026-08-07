@@ -4,13 +4,13 @@
 
 credits claude (for the prototype) grok (tiny small fixes) me (helping giving ideas and fixing some by myself) Spiderman31807 (follow him up https://github.com/Spiderman31807 for making the base mod and me refinding it to the project zombie simulator i have today this https://github.com/Spiderman31807/Zombie-Infection was used as a base and built on top of it NOT REQUIRED for project zombie simulator it will conflict) its literally the same thing as Zombie-Infection same behavior and same thing just with more features
 
-commands /infect set @s [zombie name] 
+command /infect set [zombie name] @s or shorter /infect set [zombie name]
 
 how can i install go to the releases tab click on the tag and you'll see the release with the downloadable `.jar` download it and have fun :)
 
 NOTE this mod can CRASH your game unpredictably SO BE AWARE
 
-ANOTHER NOTE SINCE THIS IS A REPO OF https://github.com/Spiderman31807/Zombie-Infection IT HAS THE SAME NAME AND SAME INFO AND SAME dicky hoo so the `.jar` name is `modid-1.0.jar` unfortunately...but it will be fixed once the better version comes out in the future
+ANOTHER NOTE SINCE THIS IS A REPO OF https://github.com/Spiderman31807/Zombie-Infection IT HAS THE SAME NAME AND SAME INFO AND SAME dicky hoo.
 
 FEEL FREE I MEAN FEEL FREE TO take this mod and publish it on modrinth.com or curseforge.com just as long as you credit me and Spiderman31807 because he did all of the work i just added the spices
 
@@ -48,4 +48,14 @@ other unrelated images
 <img width="1920" height="1080" alt="2026-08-06_17 45 52" src="https://github.com/user-attachments/assets/fcd16ce4-8180-477c-83e2-fef6ef71494e" />
 <img width="1920" height="1080" alt="2026-08-06_19 00 34" src="https://github.com/user-attachments/assets/69829597-d4d0-4610-ba85-e2d19b00a571" />
 <img width="1920" height="1080" alt="2026-08-06_19 00 22" src="https://github.com/user-attachments/assets/a811053f-0109-4a43-bfdb-67c5492d49bf" />
+
+new baby zombie variants :) 
+
+to become a baby zombie use /infect set [zombie name] @s isbaby or shorter /infect set [zombie name] isbaby
+
+<img width="1920" height="1080" alt="2026-08-07_01 36 01" src="https://github.com/user-attachments/assets/9646a906-8380-4c22-abc0-81d3ec8560de" />
+<img width="1920" height="1080" alt="2026-08-07_01 36 15" src="https://github.com/user-attachments/assets/b2d75c18-87a3-4d4c-a369-07dc5fe89987" />
+<img width="1920" height="1080" alt="2026-08-07_01 35 08" src="https://github.com/user-attachments/assets/b0d36218-f156-4536-a9ec-42007f1d01e8" />
+<img width="1920" height="1080" alt="2026-08-07_01 36 38" src="https://github.com/user-attachments/assets/95659e6f-8e74-49f7-acf4-9695d587d988" />
+
 
