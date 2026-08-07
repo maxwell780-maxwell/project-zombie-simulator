@@ -4,6 +4,8 @@
 
 credits claude (for the prototype) grok (tiny small fixes) me (helping giving ideas and fixing some by myself) Spiderman31807 (follow him up https://github.com/Spiderman31807 for making the base mod and me refinding it to the project zombie simulator i have today this https://github.com/Spiderman31807/Zombie-Infection was used as a base and built on top of it NOT REQUIRED for project zombie simulator it will conflict) its literally the same thing as Zombie-Infection same behavior and same thing just with more features
 
+requirements: forge 1.20.1 and thats it :) 
+
 command /infect set [zombie name] @s or shorter /infect set [zombie name]
 
 how can i install go to the releases tab click on the tag and you'll see the release with the downloadable `.jar` download it and have fun :)
