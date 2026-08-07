@@ -1,5 +1,6 @@
 # project-zombie-simulator-
 "time to put all morph mods and possession mods for forge 1.20.1 to shame."
+(note this wasnt suppose to make fun of how bad the morph/possession mods there really good trust me i just bored and sick and tired of them not adding the features i want out of pure spite i made this mod)
 
 here we have the playable zombie mod or project zombie simulator so whats it all about? lets you fully play as a zombie 1:1
 
@@ -8,7 +9,6 @@ here we have the playable zombie mod or project zombie simulator so whats it all
 <img width="1920" height="1080" alt="2026-08-04_16 22 37" src="https://github.com/user-attachments/assets/8de0e08d-3899-4226-9e1f-f25585ad0ff2" />
 
 the mod has toggleable agro behavior press R to toggle agro behavior (the mod has an option to bind a key to a different key if you want go to the options)
-<img width="1920" height="1080" alt="2026-08-06_17 45 52" src="https://github.com/user-attachments/assets/4a858054-82fc-4a7e-b75d-d277e185b6d1" />
 
 OH NO what happens to the hostile mods when they see me as a infected? nothing :D all hostile mobs (even modden ones for some reason) are friendly by default unless you hit them
 <img width="1920" height="1080" alt="2026-08-05_22 32 38" src="https://github.com/user-attachments/assets/a7deaead-6d37-40df-9e20-233f8adde124" />
@@ -20,12 +20,15 @@ as an infected you belong to the zombie family meaning all zombies are friends o
 even baby zombies got an upgrade they even ride you! however they cant control you there only purpose is to serve as additional damage
 <img width="1920" height="1080" alt="2026-08-05_03 04 23" src="https://github.com/user-attachments/assets/4e8678ee-c1c5-4e17-bacb-0d87d238783a" />
 <img width="1920" height="1080" alt="2026-08-05_17 07 05" src="https://github.com/user-attachments/assets/564aaee0-0965-42d3-8231-9b55785f9908" />
+<img width="1920" height="1080" alt="2026-08-06_17 45 52" src="https://github.com/user-attachments/assets/4a858054-82fc-4a7e-b75d-d277e185b6d1" />
 
 NONE OF ANY MORPH/POSSESSION MODS for forge 1.20.1 add this however this mod is the one to rule them all (kinda) 
 
-opening doors as a zombie? pfff thats lame we zombie player break down doors now :D
+opening doors as a zombie? nah that's lame we zombie player break down doors now :D
 yknow opening the doors as a normal player right? well as a zombie you cant open doors holding the interaction key or right click will make the zombie player break down the door 
 <img width="1920" height="1080" alt="2026-08-06_17 20 36" src="https://github.com/user-attachments/assets/55792e85-4cd2-4ee2-9b0c-5a4d5f2af8a2" />
 <img width="1920" height="1080" alt="2026-08-06_17 27 02" src="https://github.com/user-attachments/assets/f90631d9-044b-4d71-9845-3d7d867e23c4" />
+
+
 
 
