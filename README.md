@@ -38,7 +38,7 @@ even baby zombies got an upgrade they even ride you! however they cant control y
 
 NONE OF ANY MORPH/POSSESSION MODS for forge 1.20.1 add these features that mimic close to the vanilla mob as possible however this mod is the one to rule them all (kinda) 
 
-opening doors as a zombie? nah that's lame we zombie player break down doors now :D
+opening doors as a zombie? nah that's lame we zombie player's break down doors now :D
 yknow opening the doors as a normal player right? well as a zombie you cant open doors holding the interaction key or right click will make the zombie player break down the door 
 <img width="1920" height="1080" alt="2026-08-06_17 20 36" src="https://github.com/user-attachments/assets/55792e85-4cd2-4ee2-9b0c-5a4d5f2af8a2" />
 <img width="1920" height="1080" alt="2026-08-06_17 27 02" src="https://github.com/user-attachments/assets/f90631d9-044b-4d71-9845-3d7d867e23c4" />
