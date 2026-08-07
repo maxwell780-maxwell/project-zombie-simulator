@@ -6,7 +6,7 @@ credits claude (for the prototype) grok (tiny small fixes) me (helping giving id
 
 commands /infect set @s [zombie name] 
 
-NOTE this mod can CRASH unpredictably SO BE AWARE
+NOTE this mod can CRASH your game unpredictably SO BE AWARE
 
 this is my first minecraft mod ever made so please be kind :)
 
