@@ -12,6 +12,8 @@ NOTE this mod can CRASH your game unpredictably SO BE AWARE
 
 ANOTHER NOTE SINCE THIS IS A REPO OF https://github.com/Spiderman31807/Zombie-Infection IT HAS THE SAME NAME AND SAME INFO AND SAME dicky hoo.
 
+how to become a zombie without commands?  simple let drowned or default zombie or husk attack you after the player dies they become a zombie simple as that :D although you can become a baby variant via a command 
+
 FEEL FREE I MEAN FEEL FREE TO take this mod and publish it on modrinth.com or curseforge.com just as long as you credit me and Spiderman31807 because he did all of the work i just added the spices
 
 this is my first minecraft mod ever made so please be kind :)
@@ -57,5 +59,7 @@ to become a baby zombie use /infect set [zombie name] @s isbaby or shorter /infe
 <img width="1920" height="1080" alt="2026-08-07_01 36 15" src="https://github.com/user-attachments/assets/b2d75c18-87a3-4d4c-a369-07dc5fe89987" />
 <img width="1920" height="1080" alt="2026-08-07_01 35 08" src="https://github.com/user-attachments/assets/b0d36218-f156-4536-a9ec-42007f1d01e8" />
 <img width="1920" height="1080" alt="2026-08-07_01 36 38" src="https://github.com/user-attachments/assets/95659e6f-8e74-49f7-acf4-9695d587d988" />
+
+`tags: morph, possession, play as a mob, transform, shapeshift, possession focus, zombie infection`
 
 
