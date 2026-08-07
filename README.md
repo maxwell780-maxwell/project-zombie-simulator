@@ -6,9 +6,11 @@ credits claude (for the prototype) grok (tiny small fixes) me (helping giving id
 
 commands /infect set @s [zombie name] 
 
-how can i install go to the releases tab click on the tag and you'll see the release with the downloadable `.jar` and have fun :)
+how can i install go to the releases tab click on the tag and you'll see the release with the downloadable `.jar` download it and have fun :)
 
 NOTE this mod can CRASH your game unpredictably SO BE AWARE
+
+ANOTHER NOTE SINCE THIS IS A REPO OF https://github.com/Spiderman31807/Zombie-Infection IT HAS THE SAME NAME AND SAME INFO AND SAME dicky hoo
 
 this is my first minecraft mod ever made so please be kind :)
 
