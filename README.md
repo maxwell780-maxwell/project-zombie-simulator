@@ -6,6 +6,8 @@ credits claude (for the prototype) grok (tiny small fixes) me (helping giving id
 
 commands /infect set @s [zombie name] 
 
+how can i install go to the releases tab click on the tag and you'll see the release with the downloadable `.jar` and have fun :)
+
 NOTE this mod can CRASH your game unpredictably SO BE AWARE
 
 this is my first minecraft mod ever made so please be kind :)
