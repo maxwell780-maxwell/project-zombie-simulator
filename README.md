@@ -20,7 +20,9 @@ FEEL FREE I MEAN FEEL FREE TO take this mod and publish it on modrinth.com or cu
 
 this is my first minecraft mod ever made so please be kind :)
 
-here we have the playable zombie mod or project zombie simulator so whats it all about? lets you fully play as a zombie 1:1
+here we have the playable zombie mod or project zombie simulator so whats it all about? lets you fully play as a zombie 1:1 (no bull crapping this time)
+
+everything should behave exactly like the vanilla zombie experience toggleable agro animation pose and busting down a door as a zombie. no morph mod for forge 1.20.1 can replicate any of the behavior for the vanilla mob because sometimes there not 1:1 (be that mob) focus however this mod is designed (from a fork) and built for that purpose for the better vanilla Minecraft mob feel. my goal for this mod to let you BE THAT ZOMBIE as close as possible every detail, every feel, every function. 
 
 <img width="1920" height="1080" alt="2026-08-04_16 22 30" src="https://github.com/user-attachments/assets/7dc13ec9-91e7-41e1-bab5-ef33ef6277ae" />
 
