@@ -62,6 +62,17 @@ to become a baby zombie use /infect set [zombie name] @s isbaby or shorter /infe
 <img width="1920" height="1080" alt="2026-08-07_01 35 08" src="https://github.com/user-attachments/assets/b0d36218-f156-4536-a9ec-42007f1d01e8" />
 <img width="1920" height="1080" alt="2026-08-07_01 36 38" src="https://github.com/user-attachments/assets/95659e6f-8e74-49f7-acf4-9695d587d988" />
 
+
+player gets infected by a zombie villager and becomes a zombie villager? no problem this mod as it all 
+
+<img width="1920" height="1080" alt="2026-08-11_00 38 26" src="https://github.com/user-attachments/assets/d9c36af9-0d20-40d2-85ec-6452c28f6de8" />
+<img width="1920" height="1080" alt="2026-08-11_00 38 31" src="https://github.com/user-attachments/assets/bcea7baf-a043-4b47-bbf8-94ae638137c7" />
+<img width="1920" height="1080" alt="2026-08-11_03 13 41" src="https://github.com/user-attachments/assets/5ded1639-97ea-4430-9bc1-e5b12561a68f" />
+<img width="1920" height="1080" alt="2026-08-11_03 14 17" src="https://github.com/user-attachments/assets/1ecf8136-7080-449d-b8c0-c2a94e3217df" />
+<img width="1920" height="1080" alt="2026-08-11_03 15 24" src="https://github.com/user-attachments/assets/b414dc9d-c95c-4c32-8255-d43d1f155676" />
+<img width="1920" height="1080" alt="2026-08-11_03 16 19" src="https://github.com/user-attachments/assets/c0eef4ac-b462-476b-8d39-69907bf7f07a" />
+
+
 `tags: morph, possession, play as a mob, transform, shapeshift, possession focus, zombie infection`
 
 
