@@ -84,6 +84,12 @@ but look out if your in the overworld as a piglin the piglin might convert into 
 <img width="1920" height="1080" alt="2026-08-29_03 10 21" src="https://github.com/user-attachments/assets/ebed89fe-07e2-4d12-998b-aaad2d058b15" />
 <img width="1920" height="1080" alt="2026-08-29_03 09 10" src="https://github.com/user-attachments/assets/d4c29717-1276-4188-8988-e4132a43ab7a" />
 
+oh yeah the warden is playable in this mod /noninfected set is were YOU CAN FIND MOST mobs that are playable ;)
+
+<img width="1920" height="1080" alt="2026-09-05_05 51 12" src="https://github.com/user-attachments/assets/d61c3589-de58-4f1e-b760-5ce109a08097" />
+<img width="1920" height="1080" alt="2026-09-05_05 29 07" src="https://github.com/user-attachments/assets/0af07fbb-bc04-4cbe-a6a5-cce44846f1e0" />
+<img width="1920" height="1080" alt="2026-09-05_05 28 56" src="https://github.com/user-attachments/assets/9a449fa2-9883-4833-b9a6-f07a3e73f7f4" />
+
 
 
 
