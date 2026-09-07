@@ -8,7 +8,7 @@ credits claude (for the prototype) grok (tiny small fixes) me (helping giving id
 
 requirements: forge 1.20.1 and thats it :) 
 
-command /infect set [zombie name] @s or shorter /infect set [zombie name]
+command /infection set [zombie name] @s or shorter /infection set [zombie name]
 
 how can i install go to the releases tab click on the tag and you'll see the release with the downloadable `.jar` download it and have fun :)
 
