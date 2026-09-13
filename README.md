@@ -2,6 +2,8 @@
 "time to put all morph mods and possession mods for forge 1.20.1 to shame."
 (note this wasn't suppose to make fun of how bad the morph/possession mods there really good trust me i was just bored and sick and tired of them not adding the features i want. out of pure spite i made this mod)
 
+NOTE i made this mod just for me i just decided to bring it to github hinse the reason why i vibe coded it cus this wansnt suppose to be published in the first place but i did this out of idk i really dont know why i published it but here we are but i didnt made this mod and said it needs to be popular i did this out of sheer boredom im no java coder but like i said its suppose to be my personal mod just for me and no one else but i decided to publish it for no apparent reason
+
 NOTE THIS MOD IS actively maintained if you got your issues send em over ill review it
 
 credits claude (for the prototype) grok (tiny small fixes) me (helping giving ideas and fixing some by myself) Spiderman31807 (follow him up https://github.com/Spiderman31807 for making the base mod and me refinding it to the project zombie simulator i have today) this https://github.com/Spiderman31807/Zombie-Infection was used as a base and built on top of it NOT REQUIRED for project zombie simulator it will conflict) its literally the same thing as Zombie-Infection same behavior and same thing just with more features
@@ -17,8 +19,6 @@ NOTE this mod can CRASH your game unpredictably SO BE AWARE
 ANOTHER NOTE SINCE THIS IS A REPO OF https://github.com/Spiderman31807/Zombie-Infection IT HAS THE SAME NAME AND SAME INFO AND SAME dicky hoo.
 
 how to become a zombie without commands?  simple let drowned or default zombie or husk attack you after the player dies they become a zombie simple as that :D although you can become a baby variant via a command 
-
-FEEL FREE I MEAN FEEL FREE TO take this mod and publish it on modrinth.com or curseforge.com just as long as you credit me and Spiderman31807 because he did all of the work i just added the spices
 
 this is my first minecraft mod ever made so please be kind :)
 
