@@ -5,7 +5,7 @@ NOTE i made this mod just for me i just decided to bring it to mondrith hinse th
 
 NOTE THIS MOD IS ACTIVELY maintained if you got your issues send them over ill review it
 
-credits claude (for the prototype) grok (tiny small fixes) me (helping giving ideas and fixing some of the code manually by myself) Spiderman31807 (follow him up https://github.com/Spiderman31807 for making the base mod and me refining it to the project zombie simulator i have today) this https://github.com/Spiderman31807/Zombie-Infection was used as a base and built on top of it NOT REQUIRED for project zombie simulator it will conflict) its literally the same thing as Zombie-Infection same behavior and same thing just with more features
+credits claude (for the prototype) grok (tiny small fixes and the large portion of adding other stuff in this mod) me (helping giving ideas and fixing some or less of the code manually by myself) Spiderman31807 (follow him up https://github.com/Spiderman31807 for making the base mod and me refining it to the project zombie simulator i have today) this https://github.com/Spiderman31807/Zombie-Infection was used as a base and built on top of it NOT REQUIRED for project zombie simulator it will conflict) its literally the same thing as Zombie-Infection same behavior and same thing just with more features 
 
 requirements: forge 1.20.1 and thats it :) 
 
