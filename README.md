@@ -1,12 +1,11 @@
 # project-zombie-simulator-
-"time to put all morph mods and possession mods for forge 1.20.1 to shame."
-(note this wasn't suppose to make fun of how bad the morph/possession mods there really good trust me i was just bored and sick and tired of them not adding the features i want. out of pure spite i made this mod)
+"time to put all morph mods and possession mods for forge 1.20.1 to shame." (note this wasn't suppose to make fun of how bad the morph/possession mods there really good trust me i was just bored and sick and tired of them not adding the features i want. out of pure spite i made this mod)
 
-NOTE i made this mod just for me i just decided to bring it to github hinse the reason why i vibe coded it cus this wasnt suppose to be published in the first place but i did this out of idk i really dont know why i published it but here we are but i didnt made this mod and said it needs to be popular i did this out of sheer boredom im no java coder but like i said its suppose to be my personal mod just for me and no one else but i decided to publish it for no apparent reason
+NOTE i made this mod just for me i just decided to bring it to mondrith hinse the reason why i vibe coded SOME of the code it cus this wasnt suppose to be published in the first place but i did this out of idk i really dont know why i published it but here we are but i didnt made this mod and said it needs to be popular i did this out of sheer boredom im no java coder but like i said its suppose to be my personal mod just for me and no one else but i decided to publish it for no apparent reason
 
-NOTE THIS MOD IS actively maintained if you got your issues send em over ill review it
+NOTE THIS MOD IS ACTIVELY maintained if you got your issues send them over ill review it
 
-credits claude (for the prototype) grok (tiny small fixes) me (helping giving ideas and fixing some by myself) Spiderman31807 (follow him up https://github.com/Spiderman31807 for making the base mod and me refinding it to the project zombie simulator i have today) this https://github.com/Spiderman31807/Zombie-Infection was used as a base and built on top of it NOT REQUIRED for project zombie simulator it will conflict) its literally the same thing as Zombie-Infection same behavior and same thing just with more features
+credits claude (for the prototype) grok (tiny small fixes) me (helping giving ideas and fixing some of the code manually by myself) Spiderman31807 (follow him up https://github.com/Spiderman31807 for making the base mod and me refining it to the project zombie simulator i have today) this https://github.com/Spiderman31807/Zombie-Infection was used as a base and built on top of it NOT REQUIRED for project zombie simulator it will conflict) its literally the same thing as Zombie-Infection same behavior and same thing just with more features
 
 requirements: forge 1.20.1 and thats it :) 
 
