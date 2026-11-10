@@ -87,7 +87,9 @@ oh yeah the warden is playable in this mod /noninfected set is were YOU CAN FIND
 <img width="1920" height="1080" alt="2026-09-05_05 29 07" src="https://github.com/user-attachments/assets/0af07fbb-bc04-4cbe-a6a5-cce44846f1e0" />
 <img width="1920" height="1080" alt="2026-09-05_05 28 56" src="https://github.com/user-attachments/assets/9a449fa2-9883-4833-b9a6-f07a3e73f7f4" />
 
+too lazy and want to install the mod the offical way? heres the actual mod link to curse forge https://www.curseforge.com/minecraft/mc-mods/project-zombie-simulator
 
+for more interesting stuff about this mod i suggest you check my youtube channel :D https://www.youtube.com/@dragonz_maxwell
 
 
 `tags: morph, possession, play as a mob, transform, shapeshift, possession focus, zombie infection`
