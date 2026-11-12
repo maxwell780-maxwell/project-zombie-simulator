@@ -20,7 +20,7 @@ ANOTHER NOTE SINCE THIS IS A REPO OF https://github.com/Spiderman31807/Zombie-In
 how to become a zombie without commands?  simple let drowned or default zombie or husk attack you after the player dies they become a zombie simple as that :D although you can become a baby variant via a command 
 
 this is my first minecraft mod ever made so please be kind :) 
-"although i wish my dumb aah knows how to code without ai too bad im stupid and dumb but im learning from the experience oh yeah i have no human friendswho will help me im very lonely :("
+"although i wish my dumb aah knows how to code without ai too bad im stupid and dumb but im learning from the experience oh yeah i have no human friends who will help me im very lonely :("
 
 everything should behave exactly like the vanilla zombie experience toggleable agro animation pose and busting down a door as a zombie. no morph mod for forge 1.20.1 can replicate any of the behavior for the vanilla mob because sometimes there not 1:1 (be that mob) focus however this mod is designed (from a fork) and built for that purpose for the better vanilla Minecraft mob feel. my goal for this mod to let you BE THAT ZOMBIE as close as possible every detail, every feel, every function. 
 
