@@ -7,7 +7,7 @@ credits claude (for the prototype) grok (tiny small fixes and the large portion 
 
 requirements: forge 1.20.1 and thats it :) 
 
-otherbmod dependencies? it ain't got one its a dang plug n play :D
+other mod dependencies? it ain't got one its a dang plug n play :D
 
 command /infection set [zombie name] @s or shorter /infection set [zombie name]
 
