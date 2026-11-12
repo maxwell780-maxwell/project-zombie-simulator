@@ -1,11 +1,13 @@
 # project-zombie-simulator-
-"time to put all morph mods and possession mods for forge 1.20.1 to shame." (note this wasn't suppose to make fun of how bad the morph/possession mods there really good trust me i was just bored and sick and tired of them not adding the features i want. out of pure spite i made this mod)
+"play as a mob straight to the point no bullcrapping download this mod and experience what it has to offer be disappointed or be appreciated but the mod offers more than what you might think"
 
 NOTE THIS MOD IS ACTIVELY maintained if you got your issues send them over ill review it
 
 credits claude (for the prototype) grok (tiny small fixes and the large portion of adding other stuff in this mod) me (helping giving ideas and fixing some or less of the code manually by myself) Spiderman31807 (follow him up https://github.com/Spiderman31807 for making the base mod and me refining it to the project zombie simulator i have today) this https://github.com/Spiderman31807/Zombie-Infection was used as a base and built on top of it NOT REQUIRED for project zombie simulator it will conflict) its literally the same thing as Zombie-Infection same behavior and same thing just with more features 
 
 requirements: forge 1.20.1 and thats it :) 
+
+otherbmod dependencies? it ain't got one its a dang plug n play :D
 
 command /infection set [zombie name] @s or shorter /infection set [zombie name]
 
@@ -17,9 +19,8 @@ ANOTHER NOTE SINCE THIS IS A REPO OF https://github.com/Spiderman31807/Zombie-In
 
 how to become a zombie without commands?  simple let drowned or default zombie or husk attack you after the player dies they become a zombie simple as that :D although you can become a baby variant via a command 
 
-this is my first minecraft mod ever made so please be kind :)
-
-here we have the playable zombie mod or project zombie simulator so whats it all about? lets you fully play as a zombie 1:1 (no bull crapping this time)
+this is my first minecraft mod ever made so please be kind :) 
+"although i wish my dumb aah knows how to code without ai too bad im stupid and dumb but im learning from the experience oh yeah i have no human friendswho will help me im very lonely :("
 
 everything should behave exactly like the vanilla zombie experience toggleable agro animation pose and busting down a door as a zombie. no morph mod for forge 1.20.1 can replicate any of the behavior for the vanilla mob because sometimes there not 1:1 (be that mob) focus however this mod is designed (from a fork) and built for that purpose for the better vanilla Minecraft mob feel. my goal for this mod to let you BE THAT ZOMBIE as close as possible every detail, every feel, every function. 
 
