@@ -1,4 +1,4 @@
-9# project-zombie-simulator-
+# project-zombie-simulator-
 "play as a mob straight to the point no bullcrapping download this mod and experience what it has to offer be disappointed or be appreciated but the mod offers more than what you might think"
 
 NOTE THIS MOD IS ACTIVELY maintained if you got your issues send them over ill review it
@@ -93,6 +93,9 @@ too lazy and want to install the mod the offical way? heres the actual mod link 
 for more interesting stuff about this mod i suggest you check my youtube channel :D https://www.youtube.com/@dragonz_maxwell
 
 so summary what is this mod? its basically a spin off of zombie infection but way better and adds more stuff/features but im not saying that this mod is better then zombie infection.
+
+yes ai was used and.
+Plus im extremely honest I dont lie and guess what im proud of being extremely honest im not one of those greedy people who claimed to made this project by themselves but completely used ai on the entire mod thats not cool ALWAYS have an ai use disclaimer if ai was used in your project.
 
 `tags: morph, possession, play as a mob, transform, shapeshift, possession focus, zombie infection`
 
