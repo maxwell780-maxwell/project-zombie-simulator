@@ -1,0 +1,16 @@
+# Security Policy
+
+## Supported Versions
+forge 1.20.1
+
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.20.1   | :white_check_mark: |
+| 26.x   | :x:                |
+| 1.21.x   | :x: |
+| < fabric   | :x:                |
+
+## Reporting a Vulnerability
+
+to report a vulnerability this mod has or may has create an issue if your issue is not read or hasnt reached me yet comment on my recent video/post/short
