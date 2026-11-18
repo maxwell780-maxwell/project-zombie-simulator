@@ -9,7 +9,11 @@ forge 1.20.1
 | 1.20.1   | :white_check_mark: |
 | 26.x   | :x:                |
 | 1.21.x   | :x: |
-| < fabric   | :x:                |
+| fabric   | :x:                |
+| neoforge   | :x:                |
+| quilt   | :x:                |
+| forge   | :white_check_mark:                |
+| liteloader   | :x:                |
 
 ## Reporting a Vulnerability
 
